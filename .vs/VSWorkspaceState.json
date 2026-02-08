@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\library",
     "\\Main"
   ],
-  "SelectedNode": "\\Main",
+  "SelectedNode": "\\library\\library.vcxproj",
   "PreviewInSolutionExplorer": false
 }
